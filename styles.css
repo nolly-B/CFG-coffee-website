@@ -56,11 +56,11 @@ body {
   top: 80px;
 }
 #iced-coffee {
-  height: 238px;
+  height: 262px;
   width: 280px;
 }
 .card {
-  background-color: rgb(216, 222, 224) !important;
+  background-color: rgb(216, 223, 216, 1) !important;
 }
 h1 {
   text-align: center;
