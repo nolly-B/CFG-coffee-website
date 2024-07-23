@@ -1,0 +1,55 @@
+:root {
+  --primary-font: "Open Sans", sans-serif;
+}
+
+#navbarNav {
+  font-size: large;
+  position: relative;
+  left: 500px;
+  font-family: "Open Sans", sans-serif;
+  font-weight: 600;
+  font-optical-sizing: auto;
+  justify-content: space-between !important;
+  font-style: normal;
+  font-variation-settings: "wdth" 100;
+}
+#logo {
+  font-family: "Archivo Black", sans-serif;
+  font-weight: 800;
+  font-style: normal;
+  font-size: xx-large;
+}
+.section-1 {
+  background-image: url(./1721753586748.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-attachment: fixed;
+  padding: 250px 80px;
+}
+.navbar {
+  background-color: rgba(224, 223, 216, 1) !important;
+}
+body {
+  background-color: rgba(224, 223, 216, 1) !important;
+}
+
+.menu-button {
+  color: white;
+  background-color: rgba(236, 171, 101, 1);
+  font-family: var(--primary-font);
+  padding: 15px 35px;
+  border-radius: 40px;
+  border-color: rgba(236, 171, 101, 1);
+  font-size: 15px;
+}
+.section-2 {
+  position: relative;
+  top: 100px;
+}
+#iced-coffee {
+  height: 238px;
+  width: 280px;
+}
+.card {
+  background-color: rgba(224, 223, 216, 1) !important;
+}
